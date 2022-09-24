@@ -1,1 +1,3 @@
 Bu bizim birirnci gunun isi.
+
+Bu da bizim ikinci gunun isi...
